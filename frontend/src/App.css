@@ -1,0 +1,6 @@
+.centered-container {
+    display: flex;
+    justify-content: center; /* Horizontally center the contents */
+    min-height: 100vh; /* This ensures the container takes at least the full viewport height */
+  }
+  
